@@ -1,0 +1,5 @@
+[package]
+
+name = "toy-browser-engine"
+version = "0.0.1"
+authors = ["Zedronar <prietoaxel@gmail.com>"]
