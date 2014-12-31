@@ -5,4 +5,8 @@ Code produced following the [Matt Brubeck's tutorial](http://limpet.net/mbrubeck
 
 ----
 
-´$ cargo run´ for compiling + running using Cargo
+### For compiling + running using Cargo
+
+```shell
+$ cargo run
+```
